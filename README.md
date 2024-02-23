@@ -2,6 +2,10 @@
 This is the updated code for the projects from Building AI Applications with ChatGPT APIs book by Martin Yanev
 (https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 
+Within each folder, run the app with 
+```
+python3 app.py
+```
 Sample results for the relevant projects can be found within the respective folders
 
 ## 2 ChatGPT CLone
@@ -9,9 +13,9 @@ Sample results for the relevant projects can be found within the respective fold
 ![chatgpt_clone](https://github.com/solarspaceclouds/building_AI_Applications_with_ChatGPT_API/assets/65459827/778af075-612d-4362-83a6-6853094f9c57)
 
 ## 5 Quiz Generator App with Django
-'''
+```
 python3 manage.py runserver
-'''
+```
 
 ![chatgpt_quiz_generator](https://github.com/solarspaceclouds/building_AI_Applications_with_ChatGPT_API/assets/65459827/35657435-0ac1-46d7-a9e0-c604378ec813)
 ![chatgpt_quiz_generator_download](https://github.com/solarspaceclouds/building_AI_Applications_with_ChatGPT_API/assets/65459827/bb40d646-127e-4f53-8447-ed9ce4f3660e)
