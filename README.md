@@ -2,7 +2,14 @@
 This is the updated code for the projects from Building AI Applications with ChatGPT APIs book by Martin Yanev
 (https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 
-Within each folder, run the app with 
+Within each folder,
+Step 1: 
+Install required dependencies with
+```
+pip install requirements.txt
+```
+
+Step 2:Run the app with 
 ```
 python3 app.py
 ```
