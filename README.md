@@ -2,6 +2,10 @@
 This is the updated code for the projects from Building AI Applications with ChatGPT APIs book by Martin Yanev
 (https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 
+Within each folder, run the app with 
+```
+python3 app.py
+```
 Sample results for the relevant projects can be found within the respective folders
 
 ## 2 ChatGPT CLone
