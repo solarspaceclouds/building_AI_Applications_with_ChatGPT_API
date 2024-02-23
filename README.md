@@ -1,5 +1,7 @@
 # Overview
-This is the updated code for the projects from Building AI Applications with ChatGPT APIs book by Martin Yanev
+This is the updated code for the projects from Building AI Applications with ChatGPT APIs book by Martin Yanev after the openai library revamp in Oct/Nov 2023. 
+This code works as of 23 February 2024.
+
 (https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 
 Within each folder,
