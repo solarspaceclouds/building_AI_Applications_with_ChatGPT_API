@@ -2,6 +2,8 @@
 This is the updated code for the projects from Building AI Applications with ChatGPT APIs book by Martin Yanev
 (https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 
+Sample results for the relevant projects can be found within the respective folders
+
 ## 2 ChatGPT CLone
 
 ![chatgpt_clone](https://github.com/solarspaceclouds/building_AI_Applications_with_ChatGPT_API/assets/65459827/778af075-612d-4362-83a6-6853094f9c57)
