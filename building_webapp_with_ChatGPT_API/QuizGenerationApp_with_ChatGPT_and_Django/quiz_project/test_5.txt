@@ -1,0 +1,34 @@
+1. How many planets are there in the solar system?
+   A. 7
+   B. 8
+   C. 9
+   D. 10
+   Correct answer: B. 8
+
+2. Which planet is known for its rings?
+   A. Jupiter
+   B. Saturn
+   C. Mars
+   D. Venus
+   Correct answer: B. Saturn
+
+3. Which planet is closest to the Sun?
+   A. Earth
+   B. Venus
+   C. Mercury
+   D. Mars
+   Correct answer: C. Mercury
+
+4. Which planet is known as the "Red Planet"?
+   A. Jupiter
+   B. Saturn
+   C. Mars
+   D. Uranus
+   Correct answer: C. Mars
+
+5. Which planet is the largest in the solar system?
+   A. Earth
+   B. Jupiter
+   C. Saturn
+   D. Neptune
+   Correct answer: B. Jupiter

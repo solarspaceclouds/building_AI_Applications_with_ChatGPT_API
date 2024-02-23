@@ -1,0 +1,37 @@
+Text:
+
+"The Great Gatsby" is a novel written by F. Scott Fitzgerald and published in 1925. The story follows the lives of Jay Gatsby, a mysterious millionaire, and his love interest, Daisy Buchanan, in the fictional town of West Egg, Long Island.
+
+Questions:
+
+1. What is the title of the novel written by F. Scott Fitzgerald in 1925?
+   A. The Catcher in the Rye
+   B. The Great Gatsby
+   C. To Kill a Mockingbird
+   D. Pride and Prejudice
+   
+   Correct Answer: B. The Great Gatsby
+   
+2. Who is the mysterious millionaire in the novel?
+   A. Tom Buchanan
+   B. Nick Carraway
+   C. Jay Gatsby
+   D. George Wilson
+   
+   Correct Answer: C. Jay Gatsby
+   
+3. Where is the fictional town of West Egg located?
+   A. California
+   B. New York
+   C. Florida
+   D. Texas
+   
+   Correct Answer: B. New York
+   
+4. Who is Jay Gatsby's love interest in the novel?
+   A. Myrtle Wilson
+   B. Daisy Buchanan
+   C. Jordan Baker
+   D. Catherine McKee
+   
+   Correct Answer: B. Daisy Buchanan
