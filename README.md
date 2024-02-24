@@ -5,13 +5,16 @@ This code works as of 23 February 2024.
 (https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs)
 
 Within each folder,
-Step 1: 
+
+Step 1: create config.py file to store your openai API_KEY
+
+Step 2: 
 Install required dependencies with
 ```
 pip install requirements.txt
 ```
 
-Step 2:Run the app with 
+Step 3:Run the app with 
 ```
 python3 app.py
 ```
@@ -51,3 +54,7 @@ Chapter12_fine_tune.ipynb uses train_data_prepared.jsonl for fine-tuning.
 
 ### Helpful resource for openai API migrations
 https://github.com/openai/openai-python/discussions/742  
+
+## Other information
+Currently no intention to do Chapter 3/4 Code Bug Fixer, Chapter 7 Outlook Email Automatic Reply Generator, Chapter 10 Whisper 
+please refer to the original repository for these: https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs
